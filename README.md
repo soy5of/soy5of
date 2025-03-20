@@ -1,7 +1,7 @@
 
 <div id="header" align="center">
   <h1> Hello there, my name is Sofia👋 </h1>
-  <img src="https://media1.tenor.com/m/YdTpw-54DXcAAAAC/pusheen-laptop.gif" width="518" height="344.0152671755725" fetchpriority="high">
+  <img src="https://media.tenor.com/KdkhCJ65m0sAAAAi/peach-goma-peach-and-goma.gif" width="256" height="200" fetchpriority="high">
   <h3> Student at MAI, Moscow 🌃 <br>
         Text me
   <a href="https://t.me/soy5of">
@@ -15,7 +15,7 @@
 
 ---
 <div>
-  <h2> About me <img src="https://media1.tenor.com/m/QRipCjJbuEkAAAAC/dinodance-superd%C3%BCselisgolti.gif" width="30" height="30" fetchpriority="high"> </h2>
+  <h2> About me <img src="https://media.tenor.com/SEqhugzA6q8AAAAi/dinodance-d%C3%BCs.gif" width="30" height="30" fetchpriority="high"> </h2>
 </div>
 
 - 🔭 I’m currently just studying
@@ -25,18 +25,17 @@
 - ⚡ Random fact: studied **Computer Science** in China for a semester asinternational student
 ---
 <div id="skills">
-  <h2> My skills <img src="https://media1.tenor.com/m/QRipCjJbuEkAAAAC/dinodance-superd%C3%BCselisgolti.gif" width="30" height="30" fetchpriority="high"> </h2>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"  width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
+  <h2> My skills <img src="https://media.tenor.com/SEqhugzA6q8AAAAi/dinodance-d%C3%BCs.gif" width="30" height="30" fetchpriority="high"> </h2>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40" alt = "python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"  width="40" height="40" alt = "cpp"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="40" height="40" alt = "cs"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg" width="40" height="40" alt = "dbeaver"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="40" height="40" alt = "psql"/>
 </div>
 
 ---
 <div id="stats">
-  <h2> My stats <img src="https://media1.tenor.com/m/QRipCjJbuEkAAAAC/dinodance-superd%C3%BCselisgolti.gif" width="30" height="30" fetchpriority="high"> </h2>
+  <h2> My stats <img src="https://media.tenor.com/SEqhugzA6q8AAAAi/dinodance-d%C3%BCs.gif" width="30" height="30" fetchpriority="high"> </h2>
 </div>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=soy5of&theme=midnight_purple)
