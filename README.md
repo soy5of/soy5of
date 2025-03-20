@@ -11,6 +11,7 @@
     <img src="https://github.com/user-attachments/assets/9a93cbed-f703-44ce-8d00-9575b28d6fd7"  width="30" height="30"/>
   </a>
      </h3>
+    <img src="https://komarev.com/ghpvc/?username=soy5of&style=flat-square&color=blue" alt=""/>
 </div>
 
 ---
