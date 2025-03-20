@@ -22,8 +22,8 @@
 - 🔭 I’m currently just studying
 - 🌱 I’m currently at my 4th year Bachelor in **Software Engineering**
 - 👾 Last year had internship for a month as **C#-programmer** in a GameDev company
-- 😄 Pronouns: she/her
-- ⚡ Random fact: studied **Computer Science** in China for a semester asinternational student
+- 😄 I describe myself as an open-minded, ambitious and friendly person
+- ⚡ Random fact: studied **Computer Science** in China, Beijing Institute of Technology for a semester as international student
 ---
 <div id="skills">
   <h2> My skills <img src="https://media.tenor.com/SEqhugzA6q8AAAAi/dinodance-d%C3%BCs.gif" width="30" height="30" fetchpriority="high"> </h2>
@@ -33,6 +33,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg" width="40" height="40" alt = "dbeaver"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="40" height="40" alt = "psql"/>
 </div>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soy5of&layout=compact&theme=dark)](https://github.com/soy5of/github-readme-stats)
 
 ---
 <div id="stats">
