@@ -2,13 +2,18 @@
 <div id="header" align="center">
   <h1> Hello there, my name is Sofia👋 </h1>
   <img src="https://media.tenor.com/KdkhCJ65m0sAAAAi/peach-goma-peach-and-goma.gif" width="256" height="200" fetchpriority="high">
-  <h3> Student at MAI, Moscow 🌃 <br>
-        Text me
+  <h3> Student at MAI, Moscow 🌃
+       <br /> Text me
   <a href="https://t.me/soy5of">
      <img src="https://github.com/user-attachments/assets/df7cf5c9-1727-4e6a-a9a9-cf25f97b24fd" width="30" height="30"/>
   </a>
   <a href="https://vk.com/ssoffiyka">
     <img src="https://github.com/user-attachments/assets/9a93cbed-f703-44ce-8d00-9575b28d6fd7"  width="30" height="30"/>
+  </a>
+    <br /> Check out my LeetCode profile:
+      </a>
+  <a href="https://leetcode.com/u/soy5of">
+    <img src="https://img.icons8.com/?size=100&id=9L16NypUzu38&format=png&color=000000"  width="30" height="30"/>
   </a>
      </h3>
     <img src="https://komarev.com/ghpvc/?username=soy5of&style=flat-square&color=blue" alt=""/>
@@ -34,7 +39,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="40" height="40" alt = "psql"/>
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soy5of&layout=compact&theme=dark)](https://github.com/soy5of/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soy5of&layout=compact&theme=dark)](https://github.com/soy5of/github-readme-stats)  
 
 ---
 <div id="stats">
