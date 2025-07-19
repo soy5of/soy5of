@@ -2,7 +2,7 @@
 <div id="header" align="center">
   <h1> Hello there, my name is Sofia👋 </h1>
   <img src="https://media.tenor.com/KdkhCJ65m0sAAAAi/peach-goma-peach-and-goma.gif" width="256" height="200" fetchpriority="high">
-  <h3> Student at MAI, Moscow 🌃
+  <h3> MAI, Moscow Alumni 📘
        <br /> Text me
   <a href="https://t.me/soy5of">
      <img src="https://github.com/user-attachments/assets/df7cf5c9-1727-4e6a-a9a9-cf25f97b24fd" width="30" height="30"/>
