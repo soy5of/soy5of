@@ -24,8 +24,8 @@
   <h2> About me <img src="https://media.tenor.com/SEqhugzA6q8AAAAi/dinodance-d%C3%BCs.gif" width="30" height="30" fetchpriority="high"> </h2>
 </div>
 
-- 🔭 I’m currently just studying
-- 🌱 I’m currently at my 4th year Bachelor in **Software Engineering**
+- 🔭 I’m currently looking for a job
+- 🌱 Bachelor in **Software Engineering**
 - 👾 Last year had internship for a month as **C#-programmer** in a GameDev company
 - 😄 I describe myself as an open-minded, ambitious and friendly person
 - ⚡ Random fact: studied **Computer Science** in China, Beijing Institute of Technology for a semester as international student
