@@ -10,7 +10,7 @@
   <a href="https://vk.com/ssoffiyka">
     <img src="https://github.com/user-attachments/assets/9a93cbed-f703-44ce-8d00-9575b28d6fd7"  width="30" height="30"/>
   </a>
-  <a href="www.linkedin.com/in/sofiia-denisenko](https://www.linkedin.com/in/sofiia-denisenko/">
+  <a href="https://www.linkedin.com/in/sofiia-denisenko">
     <img src="https://github.com/user-attachments/assets/243759b8-86c5-4407-b702-34319c0d7f3e"  width="30" height="30"/>
   </a>  
     <br /> Check out my LeetCode profile:
