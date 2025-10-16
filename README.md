@@ -10,6 +10,9 @@
   <a href="https://vk.com/ssoffiyka">
     <img src="https://github.com/user-attachments/assets/9a93cbed-f703-44ce-8d00-9575b28d6fd7"  width="30" height="30"/>
   </a>
+  <a href="www.linkedin.com/in/sofiia-denisenko">
+    <img src="https://github.com/user-attachments/assets/243759b8-86c5-4407-b702-34319c0d7f3e"  width="30" height="30"/>
+  </a>  
     <br /> Check out my LeetCode profile:
       </a>
   <a href="https://leetcode.com/u/soy5of">
@@ -24,8 +27,8 @@
   <h2> About me <img src="https://media.tenor.com/SEqhugzA6q8AAAAi/dinodance-d%C3%BCs.gif" width="30" height="30" fetchpriority="high"> </h2>
 </div>
 
-- 🔭 I’m currently looking for a job
-- 🌱 Bachelor in **Software Engineering**
+- 🔭 I’m currently looking for a job in Data Analysis or Software Engineering
+- 🌱 Bachelor in **Computer Software Engineering**
 - 👾 Last year had internship for a month as **C#-programmer** in a GameDev company
 - 😄 I describe myself as an open-minded, ambitious and friendly person
 - ⚡ Random fact: studied **Computer Science** in China, Beijing Institute of Technology for a semester as international student
