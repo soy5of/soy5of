@@ -29,8 +29,8 @@
 
 - 🔭 I’m currently looking for a job in Data Analysis or Software Engineering
 - 🌱 Bachelor in **Computer Software Engineering**
-- 👾 In 2023 had internship for a month as **C#-programmer** in a GameDev company
-- 👩🏻‍💻 Been working as developer in Cleverence from 2025
+- 👾 In 2023 had internship as **C#-programmer** in a GameDev company
+- 👩🏻‍💻 Been working as **developer** in Cleverence from 2025
 - 😄 I describe myself as an open-minded, ambitious and friendly person
 - ⚡ Random fact: studied **Computer Science** in China, Beijing Institute of Technology for a semester as international student
 ---
